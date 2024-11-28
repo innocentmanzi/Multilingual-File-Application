@@ -1,0 +1,7 @@
+{
+  "welcome": "Bienvenue",
+  "fileUploadSuccess": "Fichier téléchargé avec succès.",
+  "fileUploadFail": "Échec du téléchargement du fichier.",
+  "unauthorized": "Accès non autorisé.",
+  "fileDeleted": "Fichier supprimé avec succès."
+}

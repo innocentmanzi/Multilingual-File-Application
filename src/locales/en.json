@@ -1,0 +1,7 @@
+{ 
+"welcome": "Welcome", 
+"fileUploadSuccess": "File uploaded successfully.", 
+"fileUploadFail": "Failed to upload file.", 
+"unauthorized": "Unauthorized access.", 
+"fileDeleted": "File deleted successfully." 
+}
